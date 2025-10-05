@@ -81,7 +81,7 @@ Program finished successfully.
 ### 👨‍💻 About the Developer
 
 **Raphael Feijó Salles**
-📍 Curitiba, Brazil
+📍 Londrina - PR, Brazil
 🎯 Aspiring Java Developer passionate about backend development, OOP, and learning software architecture.
 
 ---
